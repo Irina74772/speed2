@@ -1,0 +1,22 @@
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+string abc = "ÀÍÄĞÅÉ";
+const int N = 4;
+void gen(string s, int n) {
+    for (int i = 0; i < abc.size(); i++) {
+        if (n>1) {
+            gen( s + abc[i], n - 1);
+        }
+        else {
+            cout << s + abc[i] << endl;
+        }
+    }
+}
+int main() {
+  setlocale(LC_ALL, "RUSSIAN");
+    string s;
+    gen(s, N);
+    return 0;
+}

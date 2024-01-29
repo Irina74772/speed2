@@ -1,0 +1,34 @@
+C:\Users\Юра\source\repos\SpeedCod\x64\Debug\SpeedCod.vcxproj.AssemblyReference.cache
+C:\Users\Юра\source\repos\SpeedCod\x64\Debug\SpeedCod.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Юра\source\repos\SpeedCod\x64\Debug\SpeedCod.exe
+C:\Users\Юра\source\repos\SpeedCod\x64\Debug\SpeedCod.MyForm.resources
+C:\Users\Юра\source\repos\SpeedCod\x64\Debug\SpeedCod.vcxproj.GenerateResource.cache
+C:\Users\Юра\source\repos\SpeedCod\x64\Debug\SpeedCod.MyForm.en.resources
+C:\Users\Юра\Desktop\SpeedCod\x64\Debug\SpeedCod.vcxproj.AssemblyReference.cache
+C:\Users\Юра\Desktop\SpeedCod\x64\Debug\SpeedCod.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Юра\Desktop\SpeedCod\x64\Debug\SpeedCod.MyForm.resources
+C:\Users\Юра\Desktop\SpeedCod\x64\Debug\SpeedCod.MyForm.en.resources
+C:\Users\Юра\Desktop\SpeedCod\x64\Debug\SpeedCod.vcxproj.GenerateResource.cache
+C:\Users\Юра\Desktop\SpeedCod\x64\Debug\SpeedCod.exe
+C:\Users\Юра\Desktop\SpeedCod - копия (4)\x64\Debug\SpeedCod.vcxproj.AssemblyReference.cache
+C:\Users\Юра\Desktop\SpeedCod - копия (4)\x64\Debug\SpeedCod.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Юра\Desktop\SpeedCod - копия (4)\x64\Debug\SpeedCod.MyForm.resources
+C:\Users\Юра\Desktop\SpeedCod - копия (4)\x64\Debug\SpeedCod.MyForm.en.resources
+C:\Users\Юра\Desktop\SpeedCod - копия (4)\x64\Debug\SpeedCod.vcxproj.GenerateResource.cache
+C:\Users\Юра\Desktop\SpeedCod - копия (4)\x64\Debug\SpeedCod.exe
+E:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.vcxproj.AssemblyReference.cache
+E:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.vcxproj.SuggestedBindingRedirects.cache
+E:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.MyForm.resources
+E:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.MyForm.en.resources
+E:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.vcxproj.GenerateResource.cache
+E:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.exe
+D:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.vcxproj.AssemblyReference.cache
+D:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.MyForm.resources
+D:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.MyForm.en.resources
+D:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.vcxproj.GenerateResource.cache
+D:\SpeedCod 2.0 - копия (4)\x64\Debug\SpeedCod.exe
+E:\SpeedCod 2.0 - копия (4) - основа\x64\Debug\SpeedCod.vcxproj.AssemblyReference.cache
+E:\SpeedCod 2.0 - копия (4) - основа\x64\Debug\SpeedCod.MyForm.resources
+E:\SpeedCod 2.0 - копия (4) - основа\x64\Debug\SpeedCod.MyForm.en.resources
+E:\SpeedCod 2.0 - копия (4) - основа\x64\Debug\SpeedCod.vcxproj.GenerateResource.cache
+E:\SpeedCod 2.0 - копия (4) - основа\x64\Debug\SpeedCod.exe
